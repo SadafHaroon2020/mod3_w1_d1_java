@@ -1,7 +1,7 @@
 package week1;
 
 import java.util.Scanner;
-public class ConvertInchesToMeters {
+public class UnitConversion {
 
 	public static void main(String[] args) {
 		/*Write a Java program that reads a number in inches, converts it to meters.
